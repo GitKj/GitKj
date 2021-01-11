@@ -1,4 +1,4 @@
-### Hi there, I'm Kajoyrie! 👋###
+### Hi there, I'm Kajoyrie! 👋
 
 A little about me
 -------------------
