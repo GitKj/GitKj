@@ -8,6 +8,8 @@ Here are some of my best projects:
 - Personal website created with HTML/CSS ---- https://gitkj.github.io/
 - One of my favorite game shows, Jeopardy, created with Python ---- https://github.com/GitKj/Jeopardy
 
+
+Other things to know:
 - 🌱 I’m currently learning Python and C# in some of my academic courses
 - 💬 Ask me about my auditions for Disney Channel when I was younger!
 - 📫 How to reach me: https://www.linkedin.com/in/kajoyrie-purcell-5ba29a193/
