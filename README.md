@@ -8,8 +8,7 @@ Here are some of my best projects:
 
 
 Other things to know:
-- 🌱 I’m currently learning Python and C# in some of my academic courses
-- 💬 Ask me about my auditions for Disney Channel when I was younger!
-- 📫 How to reach me: https://www.linkedin.com/in/kajoyrie-purcell-5ba29a193/
+- 🌱 I’m currently learning Python and C#
+- 📫 How to reach me: https://www.linkedin.com/in/kajoyriepurcell
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have played basketball for 6 years and softball for 13!
