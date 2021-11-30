@@ -1,6 +1,6 @@
 ### Hi there, I'm Kajoyrie! 👋
 
-I am a senior computer science student at Florida State University in Tallahassee, Florida (est. December 2021). I am currently a Software Developer Intern at GeekSI in Tallahassee, Florida and also have the amazing opportunity to be a Software Development Engineering Intern at Amazon in Seattle, Washington this upcoming summer (2021). In my freetime I like to play basketball, or watch it (Prayers up for GSW please!). I also thoroughly enjoy watching any show that Gordon Ramsey is in (Kitchen Nightmare's, MasterChef etc), and lastly I like to skateboard!
+I am a senior Computer Science student at Florida State University in Tallahassee, Florida (est. December 2021). I am an Incoming Software Engineer at Amazon in Seattle, Washington (February 2021). I am a previous Amazon Propel Intern (SDE, Summmer 2021) and also interned at GeekSI in Tallahassee, Florida as a Software Development intern. In my freetime I like to play basketball, or watch it (Lets go GSW! BOOO Lakers!). I also thoroughly enjoy watching any show that Gordon Ramsey is in (Kitchen Nightmare's, MasterChef etc), and lastly I like to skateboard!
 
 Here are some of my best projects:
 - Personal website created with HTML/CSS ---- https://gitkj.github.io/
