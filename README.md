@@ -1,6 +1,6 @@
 ### Hi there, I'm Kajoyrie! 👋
 
-I am a full time software engineer at Amazon. I am a previous Amazon Propel Intern (SDE, Summmer 2021) and also interned at GeekSI in Tallahassee, Florida as a Software Development intern. In my freetime I like to play basketball, or watch it (Lets go GSW!). I also thoroughly enjoy watching any show that Gordon Ramsey is in (Kitchen Nightmare's, MasterChef etc), and lastly I like to skateboard!
+I am a full time software engineer at Amazon. I am a previous Amazon Propel Intern (SDE, Summmer 2021) and also interned at GeekSI in Tallahassee, Florida as a Software Development intern. In my freetime I like to watch NBA (Lets go GSW!). I also thoroughly enjoy watching any show that Gordon Ramsey is in (Kitchen Nightmare's, MasterChef etc), and lastly I like to kickbox.
 
 Here are some of my best projects:
 - Personal website created with HTML/CSS ---- https://gitkj.github.io/
